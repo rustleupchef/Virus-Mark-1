@@ -1,0 +1,1 @@
+ipconfig | findstr IPv4
